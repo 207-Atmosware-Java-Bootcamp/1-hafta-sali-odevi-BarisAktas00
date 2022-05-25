@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(122, 22, 69);
+  border: 3px solid rgb(122, 22, 69);
+  margin: 100px 500px;
+}
+label{
+  color: white;
+  font-size: 20px;
+  
+}
+p{
+  color:white   ;
+}
+#div_id{
+  background-color: rgb(83, 17, 39);
+}
+form{
+  padding: 50px 130px;
+}
+input.cl{
+ 
+
+    background-position:center;
+    float:right;
+}
+select{
+  background-size:100%;
+  padding: 1px 25px;
+  background-position:center;
+  float:right;
+}
+
+button{
+  padding: 10px 170px;
+
+}
